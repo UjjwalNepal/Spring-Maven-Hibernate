@@ -1,0 +1,7 @@
+com\ujjwal\maven\entity\Student.class
+com\ujjwal\maven\dao\StudentDAO.class
+com\ujjwal\maven\service\IMPL\StudentServiceIMPL.class
+com\ujjwal\maven\dao\IMPL\StudentDAOIMPL.class
+com\ujjwal\maven\service\StudentService.class
+com\ujjwal\maven\controller\HomeController.class
+com\ujjwal\maven\api\StudentAPI.class
